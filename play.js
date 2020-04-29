@@ -1,6 +1,8 @@
-var name = "Fresly L. Sipahutar";
-var age = 25;
-var hasHobbies = true;
+const name = "Fresly L. Sipahutar";
+let age = 25;
+const hasHobbies = true;
+
+age = 30;
 
 function summerizeUser(userName, userAge, userHasHobby) {
   return (
