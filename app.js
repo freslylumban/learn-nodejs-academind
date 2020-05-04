@@ -12,7 +12,7 @@ const http = require("http");
 // http.createServer((req, res) => {});
 
 const server = http.createServer((req, res) => {
-  console.log(req);
+  console.log(req.url, req.method, req.headers);
 });
 
 server.listen(8000);
