@@ -1,0 +1,10 @@
+npmjs.com
+
+npm:
+  npm init
+
+note:
+  (after npm init)
+    - fill the text
+    - fill "start": "node app.js", on scripts
+    - fill what you want on package.json
