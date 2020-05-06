@@ -1,0 +1,20 @@
+npmjs.com
+
+npm:
+
+how to:
+    - click Run -> Start Debugger
+    - click View -> Debugger
+
+note:
+    - syntax error
+        - create const to cons
+            SyntaxError: Unexpected identifier
+        - remove curly braces
+            SyntaxError: Unexpected end of input
+    - runtime error
+        - when you forget to end your coding
+    - logical error
+        - when you coding, but your logical code is wrong
+            - you want to give that code with array 1, but you give with array 0
+                const message = parsedBody.split("=")[0];

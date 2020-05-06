@@ -1,0 +1,19 @@
+npmjs.com
+
+npm:
+
+how to:
+    - click Run -> Start Debugger
+    - click View -> Debugger
+
+note:
+    - syntax error
+        - create const to cons
+            SyntaxError: Unexpected identifier
+        - remove curly braces
+            SyntaxError: Unexpected end of input
+    - runtime error
+        - when you forget to end your coding
+    - logical error
+        - click the left after number with the redball to stop di debug run
+        - search what the line you want to see the result
