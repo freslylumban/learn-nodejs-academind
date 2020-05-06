@@ -1,0 +1,17 @@
+npmjs.com
+
+npm:
+
+how to:
+    - click Run -> Start Debugger
+    - click View -> Debugger
+
+note:
+    - automatically restart debuggers
+        - use nodemon to restart apps when change detected
+        - click Run -> Add Configuration -> click Node.js
+        - fill:
+            "restart": true,
+            "runtimeExecutable": "nodemon",
+            "console": "integratedTerminal"
+          on launch.json
