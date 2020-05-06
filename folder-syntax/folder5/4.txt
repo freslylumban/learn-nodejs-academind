@@ -7,3 +7,4 @@ editing file:
 
 note:
   next() is for middleware
+  next(); // Allows the request to continue to the next middleware in line
