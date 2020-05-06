@@ -1,0 +1,11 @@
+npmjs.com
+
+npm:
+
+how to:
+    - click Run -> Start Debugger
+    - click View -> Debugger
+
+note:
+    - change value debugger
+        - change value debugger parsedBody: "message=value yang ada ubah jadi apa aja"
