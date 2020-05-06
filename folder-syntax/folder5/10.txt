@@ -1,0 +1,14 @@
+npmjs.com
+
+npm:
+
+
+editing file:
+  app.js
+
+note:
+  to create the method:
+    app.use() change to app.get() for GET requests
+    app.use() change to app.post() for POST requests
+  
+  middleware method cannot call if you not with the method
