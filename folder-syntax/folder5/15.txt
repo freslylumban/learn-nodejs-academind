@@ -1,0 +1,13 @@
+npmjs.com
+
+npm:
+
+editing file:
+  shop.js
+  add-product.js
+  shop.html
+  add-product.html
+
+note:
+  first create const path = require("path");
+    res.sendFile(path.join(__dirname, 'views', 'shop.html'));

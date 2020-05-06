@@ -7,5 +7,3 @@ editing file:
   add-product.html
 
 note:
-  create filtering paths with same paths
-    app.use('/admin', adminRoutes);
