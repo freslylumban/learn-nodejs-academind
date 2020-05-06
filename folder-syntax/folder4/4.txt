@@ -1,0 +1,7 @@
+npmjs.com
+
+npm:
+
+note:
+    - fill "dev": "nodemon app.js", on scripts
+    - fill what you want on package.json
