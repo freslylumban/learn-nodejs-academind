@@ -1,0 +1,24 @@
+npmjs.com
+
+npm:
+
+how to:
+
+note:
+    npm:
+        - npm init
+        - can be defined package.json file to give you shortcut common tasks/commands
+
+    3rd party packages:
+        - install via npm (npm install <name-package>)
+        - differentiate production dependencies (--save), development dependencies (--save-dev) and global dependencies (-g)
+
+    types of errors:
+        - syntax, runtime, logical errors can break app
+        - syntax, runtime errors thrown (helpful) erorr messages (with line numbers)
+        - logical errors can be fixed with testing and the help of the debugger
+    debuggings:
+        - use vscode node debugger to step into your code and go through step-by-step
+        - analyze variables values at runtime
+        - look into (and manipulate) variables at runtime
+        - set breakpoints cleverly (i.e. respect async/event-driven nature)
