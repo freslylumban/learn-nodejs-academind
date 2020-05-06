@@ -1,0 +1,16 @@
+npmjs.com
+
+npm:
+
+editing file:
+  app.js
+  main.css
+  product.css
+  shop.html
+  add-product.html
+  404.html
+
+
+note:
+  create css folder on public
+    app.use(express.static(path.join(__dirname, "public")));
