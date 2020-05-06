@@ -1,0 +1,10 @@
+npmjs.com
+
+npm:
+  npm install --save express
+
+note:
+  Hold Ctrl or Alt to see 3rd party packages
+
+editing file:
+  app.js
