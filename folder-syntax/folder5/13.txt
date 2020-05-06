@@ -1,0 +1,11 @@
+npmjs.com
+
+npm:
+
+editing file:
+  app.js
+  admin.js
+
+note:
+  create filtering paths with same paths
+    app.use('/admin', adminRoutes);
