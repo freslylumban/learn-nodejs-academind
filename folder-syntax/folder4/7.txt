@@ -1,0 +1,12 @@
+npmjs.com
+
+npm:
+
+note:
+    - syntax error
+        - forget for syntax
+        - automatically thrown error
+    - runtime error
+        - break when it runs
+    - logical error
+        - never seen error message, just doesn't work
