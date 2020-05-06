@@ -1,0 +1,15 @@
+npmjs.com
+
+npm:
+  expressjs/express (on github)
+    (https://github.com/expressjs/express)
+
+editing file:
+  app.js
+
+note:
+  see express/lib/response.js
+    res.send("<h1>Hello from Express!</h1>");
+
+  see express/lib/application.js
+    app.listen(8000);
