@@ -1,0 +1,17 @@
+npmjs.com
+
+npm:
+
+
+editing file:
+  app.js
+  admin.js
+  shop.js
+
+note:
+  - create routes folder
+  - create file admin.js and shop.js
+  - move route from app.js to admin.js and shop.js
+
+  --> app.use() dapat membaca route apapun dengan method apapun
+  --> app.get() membaca route sesuai dengan yg diketik, dengan method yg sama pula "GET"
