@@ -1,0 +1,16 @@
+npmjs.com
+
+npm:
+
+editing file:
+  path.js
+  admin.js
+  shop.js
+
+note:
+  on path.js
+    module.exports = path.dirname(process.mainModule.filename);
+
+  on admin.js and shop.js
+    const rootDir = require("../utils/path");
+    res.sendFile(path.join(rootDir, "views", "add-product.html"));
