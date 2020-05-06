@@ -1,0 +1,11 @@
+npmjs.com
+
+npm:
+  npm install nodemon
+    (https://www.npmjs.com/package/nodemon)
+
+note:
+  nodemon is auto-restart mechanism for build apps
+  --save : to production dependencies
+  --save-dev : to production dependencies development
+  -g : to global computer

@@ -14,5 +14,8 @@
   "bugs": {
     "url": "https://github.com/freslylumban/learn-nodejs-academind/issues"
   },
-  "homepage": "https://github.com/freslylumban/learn-nodejs-academind#readme"
+  "homepage": "https://github.com/freslylumban/learn-nodejs-academind#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
 }
