@@ -1,0 +1,17 @@
+npmjs.com
+
+npm:
+
+editing file:
+
+note:
+  Express.js
+    is Node.js framework
+    highly extensible and other packages can be plugged into it (middleware)
+
+  Middleware, next() and res()
+
+  Routing
+
+  Serve Files
+    sendFile()
