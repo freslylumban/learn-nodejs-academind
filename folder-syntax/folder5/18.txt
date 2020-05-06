@@ -1,0 +1,12 @@
+npmjs.com
+
+npm:
+
+editing file:
+  shop.html
+  add-product.html
+  404.html
+
+
+note:
+  create css with BEM styles
