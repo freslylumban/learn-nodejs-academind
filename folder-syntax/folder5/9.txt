@@ -1,0 +1,13 @@
+npmjs.com
+
+npm:
+  npm install --save body-parser
+    (https://www.npmjs.com/package/body-parser)
+
+editing file:
+  app.js
+  package.json
+
+note:
+  app.use(bodyParser.urlencoded({ extended: false }));
+    create that before all of middleware
