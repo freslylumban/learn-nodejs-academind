@@ -1,0 +1,14 @@
+npmjs.com
+
+npm:
+
+note:
+    - syntax error
+        - create const to cons
+            SyntaxError: Unexpected identifier
+        - remove curly braces
+            SyntaxError: Unexpected end of input
+    - runtime error
+    
+    - logical error
+    
