@@ -1,0 +1,13 @@
+npmjs.com
+
+link:
+
+npm:
+
+editing file:
+  main-layout.pug
+  add-product.pug
+  404.pug
+
+note:
+  create a layout for all pages
