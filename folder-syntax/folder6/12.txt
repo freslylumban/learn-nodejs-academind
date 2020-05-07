@@ -1,0 +1,15 @@
+npmjs.com
+
+link:
+
+npm:
+
+editing file:
+  app.js
+  shop.js
+  shop.handlebars
+  add-product.handlebars
+  404.handlebars
+
+note:
+  create handlebars pages

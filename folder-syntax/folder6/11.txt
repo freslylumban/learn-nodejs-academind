@@ -6,7 +6,7 @@ npm:
 
 editing file:
   app.js
-
+  404.hbs
 
 note:
   for pug just give
