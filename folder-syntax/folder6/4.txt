@@ -1,0 +1,23 @@
+npmjs.com
+
+npm:
+  npm install --save ejs
+  npm install --save pug
+  npm install --save express-handlebars
+
+  expressjs.com
+    (https://expressjs.com/en/4x/api.html#app.set)
+
+editing file:
+  package.json
+  app.js
+  shop.js
+  shop.pug
+
+note:
+  app.set("view engine", "pug");
+  app.set("views", "views");
+
+  on shop.js
+    change res.sendFile(path.join(rootDir, "views", "shop.html"));
+    to res.render("shop");

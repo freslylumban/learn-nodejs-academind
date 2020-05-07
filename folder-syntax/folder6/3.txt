@@ -3,9 +3,6 @@ npmjs.com
 npm:
 
 editing file:
-  app.js
-  admin.js
-  shop.js
 
 note:
   Templating Engine
