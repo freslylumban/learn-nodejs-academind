@@ -1,0 +1,27 @@
+npmjs.com
+
+npm:
+
+editing file:
+  app.js
+  admin.js
+  shop.js
+
+note:
+  Templating Engine
+  - HTML-ish Template
+    - Node/Express Content
+    - Template Engine
+  - Replace Placeholders/Snippets with HTML Content
+  - HTML File
+
+  Available Templating Engine
+  - EJS
+    <p><%= name %></p>
+    Use normal HTML and plain JavaScript in your templates
+  - Pug (Jade)
+    p #{name}
+    Use minimal HTML and custom template language
+  - Handlebars
+    <p>{{ name }}</p>
+    Use normal HTML and custom template language
