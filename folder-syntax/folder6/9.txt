@@ -1,0 +1,15 @@
+npmjs.com
+
+link:
+
+npm:
+
+editing file:
+  main-layout.pug
+  shop.pug
+  app.js
+  shop.js
+  admin.js
+
+note:
+  create class .active dynamic content
