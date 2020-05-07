@@ -1,0 +1,15 @@
+npmjs.com
+
+link:
+  Pug Docs
+    (https://pugjs.org/api/getting-started.html)
+
+npm:
+
+editing file:
+  shop.js
+  shop.pug
+
+note:
+  move HTML to template of Pug (Jade)
+  ++ Copy CSS form data
