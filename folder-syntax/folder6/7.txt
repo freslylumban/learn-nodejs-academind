@@ -1,0 +1,22 @@
+npmjs.com
+
+link:
+  Pug Docs
+    (https://pugjs.org/api/getting-started.html)
+
+npm:
+
+editing file:
+  app.js
+  admin.js
+  add-product.pug
+  404.pug
+
+note:
+  move HTML to template of Pug (Jade)
+
+  change from res.sendFile(path.join(rootDir, "views", "add-product.html"));
+  to res.render("add-product", { pageTitle: "Add Product" });
+
+  change from res.status(404).sendFile(path.join(__dirname, "views", "404.html"));
+  to res.status(404).render("404");
