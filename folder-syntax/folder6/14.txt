@@ -1,0 +1,15 @@
+npmjs.com
+
+link:
+
+npm:
+
+editing file:
+  app.js
+  shop.ejs
+  add-product.ejs
+  404.ejs
+
+note:
+  for pug just give
+    app.set('view engine', 'ejs');
