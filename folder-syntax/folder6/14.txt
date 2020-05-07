@@ -1,6 +1,8 @@
 npmjs.com
 
 link:
+  EJS Docs
+    (http://ejs.co/#docs)
 
 npm:
 
@@ -11,5 +13,5 @@ editing file:
   404.ejs
 
 note:
-  for pug just give
+  for ejs just give
     app.set('view engine', 'ejs');

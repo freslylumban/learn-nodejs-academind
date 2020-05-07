@@ -1,6 +1,8 @@
 npmjs.com
 
 link:
+  Handlebars Docs
+    (https://handlebarsjs.com/)
 
 npm:
 

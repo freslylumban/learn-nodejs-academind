@@ -1,7 +1,8 @@
 npmjs.com
 
 link:
-
+  EJS Docs
+    (http://ejs.co/#docs)
 
 npm:
 

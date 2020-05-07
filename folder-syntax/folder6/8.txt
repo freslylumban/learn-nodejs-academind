@@ -1,6 +1,8 @@
 npmjs.com
 
 link:
+  Pug Docs
+    (https://pugjs.org/api/getting-started.html)
 
 npm:
 
