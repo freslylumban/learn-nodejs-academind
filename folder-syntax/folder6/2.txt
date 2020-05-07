@@ -1,0 +1,11 @@
+npmjs.com
+
+npm:
+
+editing file:
+  app.js
+  admin.js
+  shop.js
+
+note:
+  sharing data across
