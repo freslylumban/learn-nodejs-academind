@@ -1,0 +1,18 @@
+npmjs.com
+
+link:
+
+
+npm:
+
+
+editing file:
+  shop.ejs
+  add-product.ejs
+  404.ejs
+  head.ejs
+  nav.ejs
+  end.ejs
+
+note:
+  create layout with partials pages
