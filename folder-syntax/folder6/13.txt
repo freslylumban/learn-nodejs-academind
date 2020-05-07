@@ -1,0 +1,28 @@
+npmjs.com
+
+link:
+
+npm:
+
+editing file:
+  app.js
+  shop.js
+  admin.js
+  main-layout.handlebars
+  shop.handlebars
+  add-product.handlebars
+  404.handlebars
+
+note:
+  create handlebars pages
+
+  if you change .handlebars to .hbs
+  create that (extname: 'hbs')
+    app.engine(
+      'handlebars',
+      expressHandlebars({
+        layoutsDir: 'views/layouts',
+        defaultLayout: 'main-layout',
+        extname: 'hbs'
+      })
+    );
