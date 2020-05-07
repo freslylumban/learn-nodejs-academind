@@ -1,0 +1,22 @@
+npmjs.com
+
+link:
+
+npm:
+
+editing file:
+  app.js
+
+
+note:
+  for pug just give
+    app.set('view engine', 'pug');
+
+  for handlebars give
+    const expressHandlebars = require('express-handlebars');
+  and
+    app.engine('handlebars', expressHandlebars())
+    app.set('view engine', 'handlebars');
+      or can give simple name from handlebars to hbs
+    app.engine('hbs', expressHandlebars())
+    app.set('view engine', 'hbs');
