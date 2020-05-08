@@ -1,0 +1,16 @@
+npmjs.com
+
+link:
+
+
+npm:
+
+
+editing file:
+  views/admin/add-product.pug
+  views/shop/index.pug
+  views/shop/product-list.pug
+
+note:
+  editing file HTML syntax
+  create req.body with new value
