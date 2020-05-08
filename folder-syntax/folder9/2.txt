@@ -1,0 +1,15 @@
+npmjs.com
+
+link:
+
+
+npm:
+
+
+editing file:
+  public/css/main.css
+  public/css/product.css
+  public/js/main.js
+
+
+note:
