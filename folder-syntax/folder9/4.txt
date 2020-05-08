@@ -1,0 +1,15 @@
+npmjs.com
+
+link:
+
+
+npm:
+
+
+editing file:
+  models/productsModel.js
+  views/shop/product-list.pug
+
+
+note:
+  give params link
