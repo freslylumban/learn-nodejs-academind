@@ -1,0 +1,15 @@
+npmjs.com
+
+link:
+
+
+npm:
+
+
+editing file:
+  controllers/products.js
+  models/productsModel.js
+
+
+note:
+  Create models folder
