@@ -1,0 +1,17 @@
+npmjs.com
+(and video 7)
+
+link:
+
+
+npm:
+
+
+editing file:
+  controllers/product.js
+  models/productModel.js
+  data/products.json
+
+
+note:
+  create logic so hard
