@@ -1,0 +1,24 @@
+npmjs.com
+
+link:
+
+
+npm:
+
+
+editing file:
+
+
+note:
+  Separation of Concern of MVC:
+  - Models
+    - Represents your data in your code
+    - Work with your data (e.g. save, fetch)
+
+  - Views
+    - What the users sees
+    - Decoupled for your application command
+
+  - Controllers  ==>  Routes
+    - Connecting your Models and your Views
+    - Contains the "in-between" logic
