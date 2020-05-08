@@ -1,0 +1,16 @@
+npmjs.com
+
+link:
+
+
+npm:
+
+
+editing file:
+  views/admin/products.pug
+  views/shop/product-list.pug
+
+note:
+  editing file HTML syntax
+  create req.body with new value
+  create form edit, delete, and add to cart.
