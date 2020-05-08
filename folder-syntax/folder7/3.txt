@@ -1,0 +1,17 @@
+npmjs.com
+
+link:
+
+
+npm:
+
+
+editing file:
+  app.js
+  admin.js
+  shop.js
+  controllers/product.js
+
+
+note:
+  Create controllers folder
