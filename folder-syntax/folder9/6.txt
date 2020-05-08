@@ -1,0 +1,14 @@
+npmjs.com
+
+link:
+
+
+npm:
+
+
+editing file:
+  controllers/shop.js
+  models/productModel.js
+
+note:
+  create function for findById on Models
