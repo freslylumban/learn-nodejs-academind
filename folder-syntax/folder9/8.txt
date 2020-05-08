@@ -1,0 +1,16 @@
+npmjs.com
+
+link:
+
+
+npm:
+
+
+editing file:
+  controllers/shop.js
+  routes/shop.js
+  views/shop/product-detail.pug
+  views/shop/product-list.pug
+
+note:
+  create button for cart product
