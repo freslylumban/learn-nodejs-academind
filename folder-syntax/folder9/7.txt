@@ -1,0 +1,15 @@
+npmjs.com
+
+link:
+
+
+npm:
+
+
+editing file:
+  public/css/main.css
+  controllers/shop.js
+  views/shop/product-detail.pug
+
+note:
+  create page for product with the ID
