@@ -1,0 +1,15 @@
+npmjs.com
+
+link:
+
+
+npm:
+
+
+editing file:
+  routes/shop.js
+  controllers/shop.js
+
+
+note:
+  use req.params from link
