@@ -1,0 +1,17 @@
+npmjs.com
+
+link:
+
+
+npm:
+
+
+editing file:
+  controllers/admin.js
+  models/productModel.js
+  public/css/form.css
+  views/admin/add-product.pug
+
+note:
+  editing file HTML syntax
+  create req.body with new value
