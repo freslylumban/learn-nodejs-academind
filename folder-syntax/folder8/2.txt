@@ -1,0 +1,18 @@
+npmjs.com
+
+link:
+
+
+npm:
+
+
+editing file:
+  create folder:
+    controllers/products.js
+    views/admin/
+    views/admin/add-product.pug
+    views/shop/
+    views/shop/shop.pug
+
+note:
+
