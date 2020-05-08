@@ -1,0 +1,16 @@
+npmjs.com
+(and video 7)
+
+link:
+
+
+npm:
+
+
+editing file:
+  models/productModel.js
+  data/products.json
+
+
+note:
+  refactoring file storage code
