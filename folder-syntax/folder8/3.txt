@@ -1,0 +1,13 @@
+npmjs.com
+
+link:
+
+
+npm:
+
+
+editing file:
+  views/layouts/main-layout.pug
+
+note:
+  editing file HTML syntax
