@@ -7,10 +7,10 @@ npm:
 
 
 editing file:
-  views/admin/products.pug
+  views/admin/add-product.pug
+  views/shop/index.pug
   views/shop/product-list.pug
 
 note:
   editing file HTML syntax
   create req.body with new value
-  create form edit, delete, and add to cart.

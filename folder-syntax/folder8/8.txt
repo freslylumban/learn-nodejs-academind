@@ -1,0 +1,17 @@
+npmjs.com
+
+link:
+
+
+npm:
+
+
+editing file:
+  controllers/shop.js
+  routes/shop.js
+  views/layout/main-layout.pug
+  views/shop/orders.pug
+
+note:
+  editing file HTML syntax
+  editing routes
