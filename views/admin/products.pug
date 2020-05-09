@@ -17,7 +17,7 @@ block content
               h2.product__price $#{product.price}
               p.product_description #{product.description}
             div.card__actions
-              button.btn(onclick="window.location.href='/admin/edit-product'") Edit
+              button.btn(onclick=`window.location.href='/admin/edit-product/${product.id}'`) Edit
               form(action="/admin/delete-product" method="POST")
                 button.btn Delete
     else

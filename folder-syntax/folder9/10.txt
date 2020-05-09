@@ -1,0 +1,16 @@
+npmjs.com
+
+link:
+
+
+npm:
+
+
+editing file:
+  controllers/admin.js
+  routes/admin.js
+  views/admin/edit-product.pug
+  views/admin/products.pug
+
+note:
+  create cart page
