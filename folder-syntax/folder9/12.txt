@@ -1,0 +1,18 @@
+npmjs.com
+(with video 13)
+
+link:
+
+
+npm:
+
+
+editing file:
+  controllers/admin.js
+  models/productModel.js
+  routes/admin.js
+  views/admin/edit-product.pug
+  views/admin/products.pug
+
+note:
+  create edit product
