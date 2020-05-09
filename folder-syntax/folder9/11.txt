@@ -1,0 +1,14 @@
+npmjs.com
+
+link:
+
+
+npm:
+
+
+editing file:
+  controllers/admin.js
+  views/admin/edit-product.pug
+
+note:
+  create edit-product.pug for page for add and edit with conditional rendering
