@@ -1,0 +1,19 @@
+npmjs.com
+(with video 15)
+
+link:
+
+
+npm:
+
+
+editing file:
+  controllers/admin.js
+  models/cartModel.js
+  models/productModel.js
+  routes/admin.js
+  views/admin/products.pug
+
+note:
+  - create function to delete a product
+  - create function models to delete
