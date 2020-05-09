@@ -1,1 +1,9 @@
-[{"id":"0.12020167202350063","title":"MI 021 Perubahan Pelunasan Lepas","imageUrl":"https://www.incimages.com/uploaded_files/image/970x450/getty_883231284_200013331818843182490_335833.jpg","description":"asdfasdfasdf","price":"34"},{"id":"0.9712872408339095","title":"Test Aja","imageUrl":"https://previews.123rf.com/images/benchart/benchart1204/benchart120400018/13237662-illustration-of-a-cartoon-opened-brown-book.jpg","description":"Description of the new book!","price":"18"}]
+[
+  {
+    "id": "0.12020167202350063",
+    "title": "MI 021 Perubahan Pelunasan Lepas",
+    "imageUrl": "https://www.incimages.com/uploaded_files/image/970x450/getty_883231284_200013331818843182490_335833.jpg",
+    "description": "asdfasdfasdf",
+    "price": "34"
+  }
+]

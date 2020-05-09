@@ -1,0 +1,17 @@
+npmjs.com
+(with video 18)
+
+link:
+
+
+npm:
+
+
+editing file:
+  controllers/shop.js
+  models/cartModel.js
+  routes/shop.js
+  views/shop/cart.pug
+
+note:
+  - create delete product on cart and debug error bug
