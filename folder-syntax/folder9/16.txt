@@ -1,0 +1,15 @@
+npmjs.com
+
+link:
+
+
+npm:
+
+
+editing file:
+  controllers/shop.js
+  models/cartModel.js
+  views/shop/cart.pug
+
+note:
+  - create cart view and function models
