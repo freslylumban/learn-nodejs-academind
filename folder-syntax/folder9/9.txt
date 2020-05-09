@@ -1,0 +1,14 @@
+npmjs.com
+
+link:
+
+
+npm:
+
+
+editing file:
+  models/cartModel.js
+  controllers/shop.js
+
+note:
+  create cart model (confusing)
