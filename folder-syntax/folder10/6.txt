@@ -1,0 +1,16 @@
+npmjs.com
+
+link:
+
+
+npm:
+  npm install --save mysql2
+
+
+editing file:
+  app.js
+  utils/database.js
+
+
+note:
+

@@ -17,3 +17,25 @@ editing file:
 
 
 note:
+  PUG:
+    app.set('view engine', 'pug');
+
+  HANDLEBARS:
+    (set up const first)
+      const expressHandlebars = require('express-handlebars');
+    (create connections with filesystem)
+      app.engine(
+        'handlebars',
+        expressHandlebars({
+          layoutsDir: 'views/layouts',
+          defaultLayout: 'main-layout',
+        })
+      );
+      app.set('view engine', 'handlebars');
+
+  EJS:
+    app.set('view engine', 'ejs');
+
+  AFTER THAT one of all:
+    app.set('views', 'views');
+

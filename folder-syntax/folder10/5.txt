@@ -1,0 +1,16 @@
+npmjs.com
+
+link:
+  MYSQL
+  https://www.mysql.com
+
+npm:
+
+
+editing file:
+
+note:
+  On MySQL Website, -> click Download -> click MySQL Community Edition
+  -> Need MySQL Community Server, MySQL Workbench
+
+  Choose MySQL Community Server -> scroll down -> select operating system
