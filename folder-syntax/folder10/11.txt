@@ -1,0 +1,15 @@
+npmjs.com
+
+link:
+
+
+npm:
+
+
+editing file:
+	controllers/admin.js
+	models/productModel.js
+
+
+note:
+
