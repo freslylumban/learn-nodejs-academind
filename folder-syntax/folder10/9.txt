@@ -1,0 +1,16 @@
+npmjs.com
+
+link:
+
+
+npm:
+
+
+editing file:
+  app.js
+	controllers/shop.js
+	models/productModel.js
+
+
+note:
+
