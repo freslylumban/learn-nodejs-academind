@@ -1,0 +1,37 @@
+npmjs.com
+
+link:
+
+npm:
+
+
+editing file:
+
+note:
+  SQL vs NoSQL
+  - Goal: Store Data and Make it Easily Accessible
+  -> Use a Database!  (Quicker Access than with a File)
+    -> SQL Databases  (e.g. MySQL)
+    -> NoSQL Databases  (e.g. MongoDB)
+
+  -> Horizontal vs Vertical Scaling
+    -> Horizontal
+      - Add More Server (and merge Data into one Database)
+
+    -> Vertical
+      - Improve Server Capacity / Hardware
+
+  -> SQL
+    - Data uses Schemas
+    - Relations
+    - Data is distributed across multiple tables
+    - Horizontal scaling is difficult / impossible;
+      Vertical scaling is possible
+    - Limitations for lots of (thousands) read & write queries per second
+
+  -> NoSQL
+    - Schema-less
+    - No (or very lov) Relations
+    - Data is typically merged / nested in a few collections
+    - Both horizontal and vertical scaling is possible
+    - Great performance for mass read & write requests

@@ -1,0 +1,24 @@
+npmjs.com
+
+link:
+
+npm:
+
+
+editing file:
+
+note:
+  SQL vs NoSQL
+  - Goal: Store Data and Make it Easily Accessible
+  -> Use a Database!  (Quicker Access than with a File)
+    -> SQL Databases  (e.g. MySQL)
+    -> NoSQL Databases  (e.g. MongoDB)
+
+  NoSQL:
+    -> Tables in NoSQL called COLLECTIONS
+    -> Records in NoSQL called DOCUMENTS
+      => Data Schema no fit!
+      => NoSQL have no Data Relations, but it's called Duplicated Data (Populate Data)
+    -> Core NoSQL Databases Characteristics
+      => NO Data Schema => No Structure required!
+      => NO Data Relations

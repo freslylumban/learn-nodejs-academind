@@ -1,0 +1,28 @@
+npmjs.com
+
+link:
+
+npm:
+
+
+editing file:
+
+note:
+  SQL vs NoSQL
+  - Goal: Store Data and Make it Easily Accessible
+  -> Use a Database!  (Quicker Access than with a File)
+    -> SQL Databases  (e.g. MySQL)
+    -> NoSQL Databases  (e.g. MongoDB)
+
+  SQL:
+    -> Tables: Users, Products, Orders
+      - each table have fields or columns
+      - records: basically the rows in our tables
+    -> Core SQL Databases Characteristics
+      - Data Schema => All Data (in a Table) has to fit!
+      - Data Relations => Tables are connected
+        => One-to-One, One-to-Many, Many-to-Many
+    -> SQL Queries
+      => SELECT * FROM users WHERE age > 28
+        SQL Keywords / Syntax such as SELECT, FROM, WHERE
+        Parameters / Data such as *, users, age > 28
