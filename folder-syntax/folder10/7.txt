@@ -1,0 +1,16 @@
+npmjs.com
+
+link:
+
+
+npm:
+  npm install --save mysql2
+
+
+editing file:
+  app.js
+
+
+note:
+  const db = require('./utils/database');
+  db.execute('SELECT * FROM products').then().catch();
