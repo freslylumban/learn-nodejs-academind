@@ -1,0 +1,15 @@
+npmjs.com
+
+link:
+  Sequelize Docs
+    (https://sequelize.org/v5/)
+
+npm:
+
+
+editing file:
+  models/userModel.js
+
+
+note:
+  create model for user
