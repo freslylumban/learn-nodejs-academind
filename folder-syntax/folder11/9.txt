@@ -1,0 +1,35 @@
+npmjs.com
+
+link:
+  Sequelize Docs
+    (https://sequelize.org/v5/)
+
+npm:
+
+
+editing file:
+  controllers/shop.js
+
+
+note:
+  Product.findAll({ where: { id: productId } });
+	// .then((products) => {
+	// 	res.render('shop/product-detail', {
+	// 		product: products[0],
+	// 		pageTitle: `Product from ${products[0].title}`,
+	// 		path: '/products',
+	// 	});
+	// })
+	// .catch((err) => console.log(err));
+
+  or
+
+	Product.findByPk(productId)
+		.then((product) => {
+			res.render('shop/product-detail', {
+				product: product,
+				pageTitle: `Product from ${product.title}`,
+				path: '/products',
+			});
+		})
+		.catch((err) => console.log(err));
