@@ -1,0 +1,25 @@
+npmjs.com
+
+link:
+  Sequelize Docs
+    (https://sequelize.org/v5/)
+
+npm:
+
+
+editing file:
+  app.js
+
+
+note:
+  ASSOCIATIONS
+
+              Product       <--        User
+                  |        Has Many     |
+                  |                     |
+                  |                     |
+  Belongs to Many  -->      Cart      <--  Has One
+                  |                     |
+                  |                     |
+                  |                     |
+  Belongs to Many  -->      Order     <--  Has Many
