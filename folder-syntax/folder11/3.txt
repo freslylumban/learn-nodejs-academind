@@ -1,0 +1,16 @@
+npmjs.com
+
+link:
+
+
+npm:
+  npm install --save sequelize
+    but first install:
+      npm install --save mysql2
+
+editing file:
+  utils/database.js
+
+
+note:
+
