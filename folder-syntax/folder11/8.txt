@@ -1,0 +1,16 @@
+npmjs.com
+
+link:
+  Sequelize Docs
+    (https://sequelize.org/v5/)
+
+npm:
+
+
+editing file:
+  app.js
+  controllers/shop.js
+
+
+note:
+
