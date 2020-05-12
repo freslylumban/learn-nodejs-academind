@@ -1,4 +1,5 @@
 npmjs.com
+(with video 12)
 
 link:
   Sequelize Docs
