@@ -1,0 +1,22 @@
+npmjs.com
+
+link:
+
+
+npm:
+
+
+editing file:
+
+
+note:
+  SEQUELIZE (Object-Relational Mapping Library)
+    on SQL Query
+      => INSERT INTO users VALUES (1, 'Max', 28, 'dsdg312')
+    on Sequelize
+      => const user = User.create({name: 'Max', age: 28, password: 'dsdg312'});
+
+    Models => e.g. User, Product
+    Instance => const user = User.build()
+    Queries => User.findAll()
+    Associations => User.hasMany(Product)
