@@ -14,12 +14,12 @@ editing file:
 note:
   ASSOCIATIONS
 
-              Product       <--        User
+              PRODUCT       <--        USER
                   |        Has Many     |
                   |                     |
                   |                     |
-  Belongs to Many  -->      Cart      <--  Has One
+  Belongs to Many  -->      CART      <--  Has One
                   |                     |
                   |                     |
                   |                     |
-  Belongs to Many  -->      Order     <--  Has Many
+  Belongs to Many  -->     ORDER      <--  Has Many
