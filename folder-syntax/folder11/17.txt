@@ -1,0 +1,17 @@
+npmjs.com
+
+link:
+  Sequelize Docs
+    (https://sequelize.org/v5/)
+
+npm:
+
+
+editing file:
+  controllers/admin.js
+
+
+note:
+  Product.findAll()  to  req.user.getProducts()
+
+	Product.findByPk(productId)  to  req.user.getProducts({ where: { id: productId } })
