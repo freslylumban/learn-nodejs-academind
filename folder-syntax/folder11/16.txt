@@ -1,0 +1,64 @@
+npmjs.com
+
+link:
+  Sequelize Docs
+    (https://sequelize.org/v5/)
+
+npm:
+
+
+editing file:
+  app.js
+  controllers/admin.js
+
+
+note:
+  ----------------------------------------------------------------
+
+  req.user.createProduct({
+    title: title,
+    price: price,
+    imageUrl: imageUrl,
+    description: description,
+  })
+
+  or
+
+  Product.create({
+    title: title,
+    price: price,
+    imageUrl: imageUrl,
+    description: description,
+    userId: req.user.id
+  })
+  ----------------------------------------------------------------
+
+  app.use((req, res, next) => {
+    User.findByPk(1)
+      .then((user) => {
+        req.user = user;
+        next();
+      })
+      .catch((err) => console.log(err));
+  });
+
+  ----------------------------------------------------------------
+  sequelize
+	.sync()
+	.then((result) => {
+		return User.findByPk(1);
+		// console.log(result);
+	})
+	.then((user) => {
+		if (!user) {
+			return User.create({ name: 'Fresly', email: 'fresly@gmail.com' });
+		}
+		return user;
+	})
+	.then((user) => {
+		// console.log(user);
+		app.listen(8000);
+	})
+	.catch((err) => {
+		console.log(err);
+	});
