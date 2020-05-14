@@ -1,0 +1,20 @@
+npmjs.com
+
+link:
+  Sequelize Docs
+    (https://sequelize.org/v5/)
+
+npm:
+
+
+editing file:
+  app.js
+  models/cartModel.js
+  models/cartItemModel.js
+
+
+note:
+  User.hasOne(Cart);
+  Cart.belongsTo(User);
+  Cart.belongsToMany(Product, { through: CartItem });
+  Product.belongsToMany(Cart, { through: CartItem });
