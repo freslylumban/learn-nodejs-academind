@@ -1,0 +1,19 @@
+npmjs.com
+
+link:
+  Sequelize Docs
+    (https://sequelize.org/v5/)
+
+npm:
+
+
+editing file:
+	app.js
+	models/orderItemModel.js
+	models/orderModel.js
+
+
+note:
+	Order.belongsTo(User);
+	User.hasMany(Order);
+	Order.belongsToMany(Product, { through: OrderItem });
