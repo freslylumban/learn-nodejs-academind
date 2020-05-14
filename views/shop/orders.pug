@@ -4,4 +4,13 @@ block styles
 
 block content
   main
-    h1 Nothing there!
+    if orders.length > 0
+      ul
+        each order in orders
+          li
+            h1= order.id
+            ul
+              each product in order.products
+                li= `${product.title}  (${product.orderItem.quantity})`
+    else
+      h1 Nothing there!
