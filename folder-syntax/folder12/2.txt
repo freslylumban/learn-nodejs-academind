@@ -1,0 +1,33 @@
+npmjs.com
+
+link:
+  Mongoose Docs
+    (https://mongoosejs.com/docs/)
+
+  Academind Learn MongoDB
+    (https://academind.com/learn/mongodb/)
+
+npm:
+
+
+editing file:
+
+
+note:
+  What?
+  -> MonogoDB is NoSQL Database
+  -> Humongous
+  -> Because it can store lots and lots of data
+  -> MongoDB is looks like JSON (BSON) Data Format
+    => Example:
+        {
+          "name": "Fresly",
+          "age": 26,
+          "address": {
+            "city": "Bekasi"
+          },
+          "hobbies": [
+            { "name": "Cooking" },
+            { "name": "Sports" }
+          ]
+        }

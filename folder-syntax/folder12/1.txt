@@ -1,0 +1,16 @@
+npmjs.com
+
+link:
+  Mongoose Docs
+    (https://mongoosejs.com/docs/)
+
+npm:
+
+
+editing file:
+
+
+note:
+  What's in this module?
+  - What is MongoDB
+  - Using the MongoDB Driver in Node.js Apps
